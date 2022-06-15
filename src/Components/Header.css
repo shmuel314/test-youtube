@@ -1,0 +1,14 @@
+.header{
+    height: 20vh;
+    width: 80vw;
+    
+    background-color: lightseagreen;
+
+}
+.titleHeader{
+    background-color: lightseagreen;
+    font-size: 100px;
+    position: relative;
+    top:4%;
+    left: 23%;
+}

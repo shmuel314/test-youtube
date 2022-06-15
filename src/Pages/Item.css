@@ -1,0 +1,28 @@
+.item{
+    height: 50vh;
+    width: 50vw;
+    border: 1px solid;
+    margin: 4vw;
+    display: grid;
+}
+.item img{
+    height: 300px;
+    width: 300px;
+    justify-self: center;
+}
+.titleItem{
+    justify-self: center;
+    font-size: x-large;
+}
+.descItem{
+    justify-self: center;
+    font-size: large;
+    text-align: center;
+}
+.priceItem{
+    justify-self: center;
+    font-size: 80px;
+    text-align: center;
+    margin: 1vh;
+    color:red
+}
